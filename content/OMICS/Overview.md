@@ -5,7 +5,7 @@ tags:
 ---
 ```dataview
 table file.mtime as "Last Modified"
-from "2 Thoughts"
+from "content/OMICS"
 where omics
 sort file.mtime desc
 
