@@ -5,8 +5,3 @@ In Proteomics, chemical labeling can be used to enable the [[How to measure and 
 
 This allows for reliable quantification of multiple samples in one measurement, removing the otherwise expected fluctuations between the measurements. The amount of samples is still limited to the amount of available labels, and the popularity of this technique decreases with better resolutions of MS equipment. 
 
-
----
-File Creation date: 1970-01-01 01:00
-Last Modified: 2024-11-20 16:14
-File Folder: 2 Thoughts-
