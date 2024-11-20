@@ -1,7 +1,7 @@
 ---
 OMICS: "[[L5 Proteomics]]"
 ---
-![[PowerPoint-presentation.pdf#page=21&rect=116,83,841,404|PowerPoint-presentation, p.21]]
+![[Attachments/PowerPoint-presentation 2.webp]]
 1. Sample collection
 2. Protein extraction from the sample — Different techniques are available
 3. Digestion of the protein into polypeptide chains by e.g., Trypsin ([cutting after each R and K](PowerPoint-presentation.pdf#page=22&rect=112,10,791,395|PowerPoint-presentation, p.22))
