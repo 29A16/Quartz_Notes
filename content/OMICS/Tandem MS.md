@@ -9,8 +9,3 @@ The Identification of peaks is further complicated by the fragmentation itself, 
 A combination of these effects can lead to the loss of peaks, that are covered by other shifted fragment with bigger peaks leading to loss of data/false identification of peptides. 
 
 
-
----
-File Creation date: 1970-01-01 01:00
-Last Modified: 2024-11-19 08:30
-File Folder: 2 Thoughts-

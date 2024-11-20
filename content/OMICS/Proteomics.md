@@ -7,8 +7,3 @@ Proteomics is the study of a given set op proteins expressed at a given time und
 Another challenge arises with the **differential expression levels** of proteins where variations of $10^{6}$ in one cell and $10^{12}$ within plasma protein can be observed.
 ![[PowerPoint-presentation 1.webp]]
 
-
----
-File Creation date: 2024-11-18 14:30
-Last Modified: 2024-11-18 14:30
-File Folder: 2 Thoughts-

@@ -12,8 +12,3 @@ OMICS: "[[L5 Proteomics]]"
 6. Identification of the peptides and generation of the protein matrix
 7. Functional bioinformatic analysis
 
-
----
-File Creation date: 1970-01-01 01:00
-Last Modified: 2024-11-19 15:42
-File Folder: 2 Thoughts-
