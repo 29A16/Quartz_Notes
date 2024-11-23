@@ -1,9 +1,8 @@
 ---
 title: Welcome to my notes
 ---
-
 # What is this? 
-This is meant to be a place to share my lecture notes. They are structured from the *'bottom up'*, linking related topics directly with each other without an imposed hierarchy. This is supposed to reveal connections between topics and facilitate a deeper understanding of the topic. Having this network of ideas build up over time with the addition of new allows to find new and exciting connections. 
+This site is meant to be a place to share my lecture notes. They are structured from the *'bottom up'*, linking related topics directly with each other without an imposed hierarchy. This is supposed to reveal connections between topics and facilitate a deeper understanding of the topic. Having this network of ideas build up over time with the addition of new allows to find new and exciting connections. 
 
 I create my local network with [Obsidian](https://obsidian.md/), convert them with [Quartz](https://quartz.jzhao.xyz) and hosted on GitHub-pages. The connections are made with '*Wikipedia style linking*', these links can either lead to [[Proteomics|another Note]] or to [external resources](https://www.youtube.com/watch?v=hvL1339luv0). 
 
