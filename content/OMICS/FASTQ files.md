@@ -13,7 +13,7 @@ The quality score can be used directly for the calculation of the **Phred** scor
 $$
 Q = -10log_{10}(P)
 $$
-Where P is the probability of a wrong base in the sequence. The higher the Q value, the lower the probability of finding the wrong base.![[content/Attachments/Genomics_intro_KIMN20_-1822122806.png]]
+Where P is the probability of a wrong base in the sequence. The higher the Q value, the lower the probability of finding the wrong base.![](../Attachments/Genomics_intro_KIMN20_-1822122806.png)
 
 ---
 Created: 2024-11-26 09:11
