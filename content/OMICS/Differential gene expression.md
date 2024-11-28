@@ -1,7 +1,7 @@
 ---
 OMICS: "[[L3 Transcriptomics]]"
 ---
-After the [[Library and sequencing|sequencing]] is complete, the DGE is used to gain insight into the cellular response to a change in conditions/treatment.![[content/Attachments/KIMN20_Transcriptomics_intro_-521013114 2.webp]]
+After the [[Library and sequencing|sequencing]] is complete, the DGE is used to gain insight into the cellular response to a change in conditions/treatment.![[content/Attachments/KIMN20_Transcriptomics_intro_-521013114 2.png]]
 ## Quality control
 When paired end sequencing was used, both R1 and R2 reads are used for quality control (QC) and annotation.
 Most of the same tools and data formats utilized in Genomics are also used for the evaluation of transcriptomic data.

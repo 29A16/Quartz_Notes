@@ -9,7 +9,7 @@ For more information on sequencing techniques :
 - [[Third generation sequencing]]
 - [[Fourth generation sequencing]]
 For [[Genomics]] know method roughly and some advantages/disadvantages for the techniques. 
-![[content/Attachments/Genomics_intro_KIMN20_-1822122806 1.webp]]
+![[content/Attachments/Genomics_intro_KIMN20_-1822122806 1.png]]
 PE= Paired end, meaning that the sequence is red from both directions. (PE150 means 150 bp are red from both ends)
 ## Sequencing glossary
 | Term                                    | Meaning                                                                                                                                                                                         |
