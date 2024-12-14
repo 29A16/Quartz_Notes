@@ -7,12 +7,12 @@ Besides the need for the protein sequence being contained in the database, FASTA
 
 ## Search engines
 As described before search engines are used to compare sample and database to [[Identify peptides with tandem MS|identify]] the peptide. This requires the following steps:
-1. Data reduction - the peak hights are [processed](KIMN20_data_identification_quantification_2067540178.pdf#page=17&rect=174,46,782,436|KIMN20_data_identification_quantification_2067540178, p.17) to have similar hight across the whole spectrum
-2. Build [theoretical spectra](KIMN20_data_identification_quantification_2067540178.pdf#page=19&rect=130,107,805,392|KIMN20_data_identification_quantification_2067540178, p.19) - from sequences in database
+1. Data reduction - the peak heights are [processed](content/Attachments/KIMN20_data_identification_quantification_2067540178%204.png) to have similar height across the whole spectrum
+2. Build [theoretical spectra](content/Attachments/KIMN20_data_identification_quantification_2067540178%205.png) - from sequences in database
 3. Count matched peaks - between sample and theoretical spectra
 4. Compute cross correlation - which is the best fit
 This produces a candidate peptide for each spectrum with a corresponding score. By defining a score threshold that is unique to each sample *"correct"* and *"incorrect"* samples are discriminated.
-To discern whether the cutoff range is usable a package called **PeptidePropher** can be used. It assumes standard [distributions](KIMN20_data_identification_quantification_2067540178.pdf#page=32&rect=104,18,810,526|KIMN20_data_identification_quantification_2067540178, p.32) of the correct and incorrect samples and then calculates the probabilities for a correct alignment.
+To discern whether the cutoff range is usable a package called **PeptidePropher** can be used. It assumes standard [distributions](content/Attachments/KIMN20_data_identification_quantification_2067540178%206.png) of the correct and incorrect samples and then calculates the probabilities for a correct alignment.
 With this model, we can adjust the preferred accuracy/error rate of the match as a trade of with sensitivity (amount of sequences identified).
 
 ## Example: X!Tandem
